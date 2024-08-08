@@ -2,7 +2,7 @@
 title: 'Pub-Sub Services on AWS: What are your options?'
 description: How to pick the best service to use for a Pub-Sub solution on AWS Infrastructure
 date: '2020-08-05 10:00:00'
-author: [Yossale]
+
 ---
 ## Pub-Sub architecture
 

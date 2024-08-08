@@ -2,7 +2,9 @@
 title: 'MongoDB: Handling Bulk Deletions'
 description: 'Efficiently Handling Bulk Deletions in MongoDB'
 date: '2024-07-30 10:00:00'
-author: [Yossale]
+image:
+  path: /assets/images/monogdb-bulk-delete.png
+  alt: 
 ---
 
 <!-- markdownlint-capture -->

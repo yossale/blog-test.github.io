@@ -2,7 +2,6 @@
 title: 'Finding AWS Service Names for the Cost Explorer Command'
 description: How to get AWS services names for Cost Explorer queries.
 date: '2023-04-21 10:00:00'
-author: [Yossale]
 ---
 
 AWS Cost Explorer can be a powerful tool for monitoring your AWS spending, but it's not always easy to use. One common issue is finding the correct AWS service names for the cost-and-usage command. For example, the service name for S3 is not "S3" or "Amazon S3" - it's "Amazon Simple Storage Service". Additionally, if you use the wrong service name, you'll get a valid response with a monthly sum of 0, which can be frustrating.

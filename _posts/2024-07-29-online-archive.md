@@ -2,7 +2,10 @@
 title: 'MongoDB Atlas: Online Archive - BKM and common pitfalls'
 description: 'MongoDB Atlas Online Archive: Expert Tips and Common Challenges'
 date: '2024-07-29 10:00:00'
-author: [Yossale]
+image:
+  path: /assets/images/atlas-online-archive.png
+  alt: 
+
 
 ---
 
@@ -15,7 +18,10 @@ author: [Yossale]
 
 The [MongoDB Atlas Online Archive](https://www.mongodb.com/docs/atlas/online-archive/manage-online-archive/) (OA) - is a great solution for data tiering when using MongoDB, and a lot of customers are using it. As it gets more widely spread, I wanted to write a short overview of the common BKM and pitfalls I've seen at customers, and hopefully help others to better plan their usage and avoid the cul-de-sacs.
 
-- This is not an introductory post: RTFM.
+> This is not an introductory post: RTFM.
+{: .prompt-warning }
+
+
 
 ## Context
 

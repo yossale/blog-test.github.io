@@ -2,7 +2,7 @@
 title: 'More than just event bus - EventBridge drill down'
 description: "EventBridge might be based on an event bus, but it's becoming a better way to connect across accounts and services. Let's drill in."
 date: '2020-12-09 10:00:00'
-author: [Yossale]
+
 ---
 
 A few months ago we discussed [which AWS service you could use to deploy a Pub-Sub solution](aws-pub-sub?utm_source=blog&utm_medium=link) and mentioned EventBridge as a leading candidate. But EventBridge capabilities make it more than just another event bus, and we'd like to drill down these options.

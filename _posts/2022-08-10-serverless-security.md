@@ -4,7 +4,6 @@ description: Your cloud provider might be supplying all the infrastructure you n
 image: serverless-security-cover.png
 date: '2022-08-10'
 date: '2022-01-10 10:00:00'
-author: [Yossale]
 image:
   path: /assets/images/2022-08-10-serverless-security/serverless-security-cover.png 
   alt: 

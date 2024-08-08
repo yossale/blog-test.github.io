@@ -2,7 +2,7 @@
 title: 'Asymmetric JWT Signing using AWS KMS'
 description: How to sign your JWT tokens without exposing your private key using AWS KMS
 date: '2020-10-13 10:00:00'
-author: [Yossale]
+
 ---
 
 ## TL;DR

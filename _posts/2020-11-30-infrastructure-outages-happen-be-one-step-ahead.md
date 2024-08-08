@@ -3,7 +3,7 @@ title: Infrastructure outages happen. Be one step ahead.
 description: >-
   What is the "Disaster Tolerance" approach and why it's important to adopt it before the next crash arrives. Here's our take on the last AWS outage.
 date: '2020-11-30 10:00:00'
-author: [Yossale]
+
 ---
 
 Sometime last Wednesday we started getting weird errors from our systems. Everything was up, the logs weren't reporting any abnormal behavior, but some things just... failed (or didn't happen at all). After a few more incidents we went to check the [AWS Status page](https://status.aws.amazon.com/) and realized that AWS had an outage (apparently this time they also reported the outage with delay, because the status report system was also affected).

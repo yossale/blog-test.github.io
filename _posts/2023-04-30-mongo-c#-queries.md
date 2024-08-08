@@ -2,7 +2,6 @@
 title: 'Querying Mongo in C#'
 description: A few example of how to use MongodoDB drivers in C# and LINQ
 date: '2023-04-30 10:00:00'
-author: [Yossale]
 ---
 
 In this blog post, I'll show so example on how to use C# MongoDB drive to querying a collection called "movies", available in the sample data provided by MongoDB when you create a new cluster. 
@@ -80,7 +79,7 @@ Our collection conatains movie documents from the last 30 40 years, and each rec
 
 
 ### Plain MongoDB Query Language (MQL)
-```mql
+```sh
 use('sample_mflix');
 
 db.movies.findOne({title: "Back to the Future"})

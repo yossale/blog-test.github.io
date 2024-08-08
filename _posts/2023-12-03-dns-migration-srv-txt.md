@@ -2,7 +2,6 @@
 title: 'MongoDB Cluster Switching: Leveraging TXT and SRV Records'
 description: How to do a DNS migration between MongoDB clusters using SRV and TXT records.
 date: '2023-12-03 10:00:00'
-author: [Yossale]
 image:
   path: /assets/images/2023-12-03-dns-migration-srv-txt/srv-txt-cover.png
   alt: 
